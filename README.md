@@ -4,7 +4,7 @@ By: [@adit-sinha](https://github.com/adit-sinha) and [@arhaang13](https://github
 
 **Accident Prevention Circuit (Car Proximity Detectors):**
 
-To prevent accidents, ultrasonic sensors would be fit on each side of intersection of roads. Fitted a few meters away from the junction, the cars would be alerted with a response time of .4 seconds. When these sensors detect that two cars may collide if they keep proceeding, the driver will be alerted through a strong alarm.
+To prevent accidents, ultrasonic sensors would be fit on each side of intersection of roads. Fitted a few meters away from the junction, the cars would be alerted with a response time of 0.4 seconds. When these sensors detect that two cars may collide if they keep proceeding, the driver will be alerted through a strong alarm.
 This would prevent cars travelling in perpendicular directions from crashing and would resynchronize the flow of traffic therefore making the roads less busy.
 
 **Accident Detection Circuit:**
