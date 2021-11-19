@@ -2,7 +2,12 @@ Project: Automatic Traffic Monitor Prototype
 
 By: [@adit-sinha](https://github.com/adit-sinha) and [@arhaang13](https://github.com/arhaang13)
 
+**Accolades**
+GeekAHertz (2021-22): 2nd Prize [Minicomp Wizards]
+
 **Accident Prevention Circuit (Car Proximity Detectors):**
+
+![image](https://user-images.githubusercontent.com/79353608/142604822-d06ca036-4885-4a96-bf8e-b4fb34bdacd0.png)
 
 To prevent accidents, ultrasonic sensors would be fit on each side of intersection of roads. Fitted a few meters away from the junction, the cars would be alerted with a response time of 0.4 seconds. When these sensors detect that two cars may collide if they keep proceeding, the driver will be alerted through a strong alarm.
 This would prevent cars travelling in perpendicular directions from crashing and would resynchronize the flow of traffic therefore making the roads less busy.
