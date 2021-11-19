@@ -3,7 +3,7 @@ Project: Automatic Traffic Monitor Prototype
 By: [@adit-sinha](https://github.com/adit-sinha) and [@arhaang13](https://github.com/arhaang13)
 
 **Accolades:**
--GeekAHertz (2021-22): 2nd Prize [Minicomp Wizards]
+- GeekAHertz (2021-22): 2nd Prize [Minicomp Wizards]
 
 **Accident Prevention Circuit (Car Proximity Detectors):**
 
