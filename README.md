@@ -19,4 +19,4 @@ This would prevent cars travelling in perpendicular directions from crashing and
 Our project uses 2 SRS impact sensors (fitted to the front bumper), and an accelerometer which detects the accident which has taken place. If it detects an accident, it notifies the nearby ambulance, police and victim's family members, providing them with the location coordinates using the GPS module. It notifies them using the GSM Module. The sensing system would be linked to the car's accident sensors which would be used along with the impact sensor and the accelerometer to detect whether an accident has taken place.
 
 **Notes:**
-1) For more information, the ppt describing the project can be referred to.
+1) For more information, please refer to the ppt present in the repository. Thank you for your time!
